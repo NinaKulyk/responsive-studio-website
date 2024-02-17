@@ -32,12 +32,16 @@ button {
 
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .container {
-  width: 100%;
-  width: 1158px;
-  padding: 0 15px;
+  /* width: 100%; */
+  /* width: 1158px; */
+  max-width: 320px;
+  /* padding: 0 15px; */
+  padding: 0 16px;
   margin: 0 auto;
 }
 
@@ -296,7 +300,8 @@ img {
 
 .team {
   background-color: #f4f4fd;
-  padding: 120px 0;
+  /* padding: 120px 0; */
+  padding: 96px 0;
 }
 
 .team-container {
@@ -319,7 +324,9 @@ img {
 .team-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  /* gap: 24px; */
+  row-gap: 72px;
+  width: 264px;
 }
 
 .team-list-item {
@@ -328,7 +335,7 @@ img {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
-  flex-basis: calc((100% - 3 * 24px) / 4);
+  /* flex-basis: calc((100% - 3 * 24px) / 4); */
 }
 
 .team-item-img {
@@ -387,6 +394,24 @@ img {
   position: absolute;
   top: 12px;
   left: 12px;
+}
+
+/*=======MEDIA=======*/
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
+    padding-right: 108px;
+    padding-left: 108px;
+  }
+
+  .team-list {
+    gap: 24px;
+  }
+
+  .team-list-item {
+    flex-basis: calc((100% - 24px) / 2);
+  }
 }
 
 /*===================*/
