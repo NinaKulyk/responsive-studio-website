@@ -14,10 +14,10 @@
 ## 📸 Screenshots
 
 ### 💻 Desktop
-![Desktop version](./screenshots/screenshot-desktop.jpg)
+![Desktop version](./screenshots/screenshot-desktop.png)
 
 ### 📱 Tablet
-![Tablet version](./screenshots/screenshot-tablet.jpg)
+![Tablet version](./screenshots/screenshot-tablet.png)
 
 ### 📱 Mobile
-![Mobile version](./screenshots/screenshot-mobile.jpg)
+![Mobile version](./screenshots/screenshot-mobile.png)
