@@ -13,3 +13,11 @@
 
 ## 📸 Screenshots
 
+### 💻 Desktop
+![Desktop version](./screenshots/screenshot-desktop.jpg)
+
+### 📱 Tablet
+![Tablet version](./screenshots/screenshot-tablet.jpg)
+
+### 📱 Mobile
+![Mobile version](./screenshots/screenshot-mobile.jpg)
