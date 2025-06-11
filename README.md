@@ -15,7 +15,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/screenshot-desktop.png" alt="Desktop" width="30%" style="vertical-align: top; margin-right: 5px;" />
-  <img src="./screenshots/screenshot-tablet.png" alt="Tablet" width="30%" style="vertical-align: top; margin-right: 5px;" />
-  <img src="./screenshots/screenshot-mobile.png" alt="Mobile" width="30%" style="vertical-align: top;" />
+  <img src="./screenshots/screenshot-desktop.png" alt="Desktop" height="300px" style="margin-right: 10px;" />
+  <img src="./screenshots/screenshot-tablet.png" alt="Tablet" height="300px" style="margin-right: 10px;" />
+  <img src="./screenshots/screenshot-mobile.png" alt="Mobile" height="300px" />
 </p>
