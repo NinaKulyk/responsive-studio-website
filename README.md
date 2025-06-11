@@ -12,4 +12,4 @@
 [View Live](https://ninakulyk.github.io/responsive-studio-website/)
 
 ## 📸 Screenshots
-_Add screenshots later if needed_
+
