@@ -11,13 +11,11 @@
 ## 🌐 Live Demo
 [View Live](https://ninakulyk.github.io/responsive-studio-website/)
 
+
 ## 📸 Screenshots
 
-### 💻 Desktop
-![Desktop version](./screenshots/screenshot-desktop.png)
-
-### 📱 Tablet
-![Tablet version](./screenshots/screenshot-tablet.png)
-
-### 📱 Mobile
-![Mobile version](./screenshots/screenshot-mobile.png)
+<p align="center">
+  <img src="./screenshots/screenshot-desktop.png" alt="Desktop" width="30%">
+  <img src="./screenshots/screenshot-tablet.png" alt="Tablet" width="30%">
+  <img src="./screenshots/screenshot-mobile.png" alt="Mobile" width="30%">
+</p>
